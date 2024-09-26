@@ -1,0 +1,5 @@
+Instructions to run on device:
+
+Replace input file name with json data file in sortdelete.py (lin 104)
+
+Run $ pip install .
