@@ -1,0 +1,5 @@
+setup.py
+sortdelete.egg-info/PKG-INFO
+sortdelete.egg-info/SOURCES.txt
+sortdelete.egg-info/dependency_links.txt
+sortdelete.egg-info/top_level.txt
